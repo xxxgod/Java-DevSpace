@@ -1,3 +1,3 @@
 # ROM-development
---Boot-editor，boot内核解包打包工具<Br/>
---待更新
+1.Boot-editor，boot内核解包打包工具<Br/>
+2.待更新...
