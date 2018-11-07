@@ -1,3 +1,3 @@
 # Boot-editor
-1.Boot-editor，boot内核解包打包工具<Br/>
-2.待更新...
+Boot-editor，boot内核解包打包工具<Br/>
+
