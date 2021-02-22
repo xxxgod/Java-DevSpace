@@ -4,4 +4,5 @@ http://yiii.site<br/>
 Java知识库：
 http://wiki.yiii.site
 
-备注：
+JAVADOC读书笔记：
+https://gitee.com/xxxgod/javadoc
