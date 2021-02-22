@@ -1,3 +1,7 @@
---ÍÏÈëboot.imgÍê³É½âÑ¹£¬ÍÏÈëbootÎÄ¼ş¼ĞÍê³É´ò°ü  
-  
-                                                    --×¨ÒµROM¿ª·¢ÂÛÌ³bbs.zecoki.com 
+Yiå­¦ç½‘ï¼š
+http://yiii.site<br/>
+
+JavaçŸ¥è¯†åº“ï¼š
+http://wiki.yiii.site
+
+å¤‡æ³¨ï¼š
