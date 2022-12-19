@@ -1,0 +1,18 @@
+logging:
+  level:
+    com:
+      yiii:
+        provider:
+          mapper: DEBUG
+mybatis:
+  configuration:
+    map-underscore-to-camel-case: true
+  mapper-locations: classpath:mapper/*Mapper.xml
+  type-aliases-package: com.yiii.es.entity,com.yiii.es.vo
+server:
+  port: 8082
+  servlet:
+    context-path: /api/es
+spring:
+  profiles:
+    active: dev
