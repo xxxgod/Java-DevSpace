@@ -1,0 +1,30 @@
+# Compiled class file
+*.class
+# ide file
+*.classpath
+*.project
+*.iml
+*.idea
+*.settings
+# Log file
+*.log
+
+
+
+# Package Files #
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+*.bat
+*.out
+
+## ignoring target file
+target/
+*/*.iml
+*/target/
+
+## ignoring data folder
+data/
