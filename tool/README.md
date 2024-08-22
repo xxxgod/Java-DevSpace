@@ -1,34 +1,34 @@
 
 ## 开发工具
-1.JDK8
+#### 1.JDK8
 
 适用于 Windows 的 64位 Java
 
 Version 8 Update 411 (文件大小： 65.60 MB)
 
 
-2.Git
+#### 2.Git
 https://gitforwindows.org/
 
 
-3.Jenkins
+#### 3.Jenkins
 https://mirrors.tuna.tsinghua.edu.cn/jenkins/
 
 
-4.NodeJs
+#### 4.NodeJs
 https://nodejs.org/dist/
 
-5.数据库
+#### 5.数据库
 https://dev.mysql.com/downloads/mysql/
 
-6.Nacos
+#### 6.Nacos
 https://nacos.io/download/nacos-server/?spm=a2c6h.13046898.publish-article.10.1a556ffa01REJC
 
 
 
 ## idea插件
 
-1.Mybatis-Sql-Viewer
+#### 1.Mybatis-Sql-Viewer
 一款提高CRUD时编写SQL效率和质量的插件，支持mybatis模式和非mybatis模式。主要功能如下： mybatis模式(自动生成SQL语句, 包含非mybatis模式的功能)
 mapper接口方法跳转到xml实现及xml实现跳转到对应mapper接口方法
 mapper接口方法参数mock，并使用该参数将mapper接口方法的xml实现转换成sql语句
@@ -43,7 +43,7 @@ SQL语句压测并输出压测报告
 
  
 
-2.SQL Params Setter
+#### 2.SQL Params Setter
 一个简单的工具，可以帮助您从mybatis日志中提取可执行的sql，如下所示：
 ===>准备：从name=？的表中选择*？
 ===>参数：Tom（字符串）
@@ -54,7 +54,7 @@ PS:
 
  
 
-3.TONGYI Lingma
+#### 3.TONGYI Lingma
 是一款基于通义大模型的智能编码辅助工具，提供行级/函数级实时续写、自然语言生成代码、单元测试生成、代码注释生成、代码解释、研发智能问答、异常报错排查等能力，并针对阿里云 SDK/API 的使用场景调优，为开发者带来高效、流畅的编码体验。
 
 行级/函数级实时续写
@@ -73,7 +73,7 @@ PS:
 
  
 
-4.MybatisX
+#### 4.MybatisX
 
 MybatisX插件功能：
 mapper和xml可以来回跳转
@@ -83,14 +83,14 @@ mapper和xml支持像jpa一样的自动提示（参考MybatisCodeHelperPro）
 
  
 
-5.SonarLint by Sonar
+#### 5.SonarLint by Sonar
 
 SonarLint by Sonar是一个免费的IDE扩展，可以实时查找和修复编码问题，在编码时标记问题，就像拼写检查器一样。它不仅仅是一个linter，还提供了丰富的上下文指导，帮助开发人员理解为什么会出现问题，评估风险并教育他们如何解决问题。这有助于提高他们的技能，提高他们的生产力，并掌握代码的所有权，将linting提升到一个不同的水平。
 SonarLint是一个强大的开源工具，适用于所有经验和技能水平的开发人员，使他们能够提供适合开发和生产的干净代码。对于每个开发者来说，这是一个必不可少的linting工具。
 
  
 
-6.Lombok plugin
+#### 6.Lombok plugin
 
 为Project Lombok功能添加支持的插件
 
