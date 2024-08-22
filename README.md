@@ -1,7 +1,7 @@
-# Java-DevSpace开发工具箱
+# Java-DevSpace
 
 ## 介绍
-程序猿开发工具箱，快速开发、开箱即用 :school_satchel:  :unlock: 
+Java技术开发api案例、demo、文档、工具合集，快速开发、开箱即用 :school_satchel:  :unlock: 
 
 ## api使用
 - file  
